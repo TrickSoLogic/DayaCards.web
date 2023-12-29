@@ -51,7 +51,7 @@ This website provides users with the ability to explore and inquire about variou
 ![Contact Screenshot](images/ScreenShots/Screenshot_WhyUs_Page.png)
 
 ### About_Us_Page
-![Contact Screenshot](images/ScreenShots/Screenshot_AboutUs_Page.png.png)
+![Contact Screenshot](images/ScreenShots/Screenshot_AboutUs_Page.png)
 
 
 ## Technologies Used
