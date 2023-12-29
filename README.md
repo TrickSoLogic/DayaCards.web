@@ -28,29 +28,30 @@ This website provides users with the ability to explore and inquire about variou
 
 ## Screenshots
 
-### Homepage
+### Homepage_Slider_Section
 ![Homepage Screenshot](images/ScreenShots/Screenshot_Home_page.png)
 
-### Products Page
+### Home_Page_Latest_Products
 ![Products Screenshot](images/ScreenShots/Screenshot_Home_Page_Latest_Products.png)
 
-### Contact Us Section
+### Home_Page_personalised_Section
 ![Contact Screenshot](images/ScreenShots/Screenshot_Home_Page_personalised_Section.png)
 
 
-### Contact Us Section
+### Home_Page_Contact_Us
 ![Contact Screenshot](images/ScreenShots/Screenshot_Home_Page_Contact_Us.png)
 
-### Contact Us Section
+### Home_Page_Footer
 ![Contact Screenshot](images/ScreenShots/Screenshot_Home_Page_Footer.png)
-### Contact Us Section
+
+### Products_Page
 ![Contact Screenshot](images/ScreenShots/Screenshot_product_Page.png)
 
-### Contact Us Section
+### Why_Us?_Page
 ![Contact Screenshot](images/ScreenShots/Screenshot_WhyUs_Page.png)
 
-### Contact Us Section
-![Contact Screenshot](images/ScreenShots/Screenshot_Home_Page_Contact_Us.png)
+### About_Us_Page
+![Contact Screenshot](images/ScreenShots/Screenshot_AboutUs_Page.png.png)
 
 
 ## Technologies Used
