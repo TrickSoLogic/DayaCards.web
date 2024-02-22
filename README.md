@@ -72,3 +72,5 @@ Feel free to contribute by creating pull requests or reporting issues.
 ## License
 
 This project is copyright protected and licensed under the authorization of Daya Cards.
+
+Note: Project is under implementation and testing mode
